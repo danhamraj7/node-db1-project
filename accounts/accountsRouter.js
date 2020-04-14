@@ -1,7 +1,7 @@
 const express = require("express");
 
 const accounts = require("./accountsModel");
-const db = require("../data/dbConfig");
+//const db = require("../data/dbConfig");
 
 const router = express.Router();
 
